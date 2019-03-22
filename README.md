@@ -14,3 +14,6 @@ Detta är en rework på ESX_property, så att man kan hyra/köpa sig ett motell 
 Credits:
 
 Esx_property https://github.com/ESX-Org/esx_property
+
+
+https://clips.twitch.tv/LittleAgreeableArmadilloChefFrank
